@@ -11,4 +11,3 @@ INSERT INTO creatures (name, origin)
 VALUES ('Jakalope', 'USA'), 
 ('Chupacabra', 'Mexico'), 
 ('Phoenix', 'Saudi Arabia');
-
